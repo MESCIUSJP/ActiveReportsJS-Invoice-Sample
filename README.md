@@ -1,5 +1,5 @@
 # ActiveReportsJS-Invoice-Sample
-JavaScript帳票開発ライブラリ「[ActiveReportsJS（アクティブレポートJS）](https://www.grapecity.co.jp/developer/activereportsjs)」で作成した請求書のサンプルです。
+JavaScript帳票開発ライブラリ「[ActiveReportsJS（アクティブレポートJS）](https://www.grapecity.co.jp/developer/activereportsjs)」で作成した請求書のサンプルです。請求書のレポートファイル（Invoice_green.rdlx-json）を、HTMLページ（index.html）に埋め込んだActiveReportsJSの帳票ビューワ上で表示します。
 
 
 <img title="請求書のイメージ" src="https://cdn-ak.f.st-hatena.com/images/fotolife/G/GrapeCity_dev/20191227/20191227104845.png" alt="請求書のイメージ" >
