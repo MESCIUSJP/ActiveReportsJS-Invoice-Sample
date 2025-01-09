@@ -2,7 +2,7 @@
 JavaScript帳票開発ライブラリ「[ActiveReportsJS（アクティブレポートJS）](https://developer.mescius.jp/activereportsjs)」で作成した請求書のサンプルです。請求書のレポートファイル（Invoice_green.rdlx-json）を、HTMLページ（index.html）に埋め込んだActiveReportsJSの帳票ビューワ上で表示します。
 
 
-<img title="請求書のイメージ" src="https://devlog.mescius.jp/wp-content/uploads/detail/hatena/20191227104845.png" alt="請求書のイメージ" >
+<img title="請求書のイメージ" src="https://devlog.mescius.jp/wp-content/uploads/detail/hatena/20191227104845.png" alt="請求書のイメージ" width="500">
 
 
 ソース一式をダウンロードし、Webサーバー（Visual Studio Codeの拡張機能など含む）上で実行すると、ブラウザ上のActiveReportsJSの帳票ビューワに請求書のレポートが表示されます。
